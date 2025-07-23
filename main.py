@@ -2,7 +2,7 @@ import logging import aiohttp import os from telegram import ( Update, InlineKey
 
 === CONFIG ===
 
-ADMIN_ID = 6920443520 FORCE_JOIN_CHANNELS = ['@learnWithUs_3', '@lwu_backup'] TOKEN = os.getenv("BOT_TOKEN") or "PUT_YOUR_TOKEN_HERE"
+ADMIN_ID = 6920443520 FORCE_JOIN_CHANNELS = ['@learnWithUs_3', '@lwu_backup'] TOKEN = os.getenv("BOT_TOKEN") or "8041144541:AAF2jZTnsV3UmnwzKVQdudRLJ4_wktsPFm8"
 
 === Globals ===
 
